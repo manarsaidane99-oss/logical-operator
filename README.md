@@ -48,8 +48,8 @@ allGreaterThan5(2, 7) -> false
 ### 4. Écris une fonction appelée `largerThan5AndLessThan20` qui retourne true si le nombre est **strictement supérieur à 5 et strictement inférieur à 20**, sinon false.
 
 ```javascript
-function largerThan5AndLessThan20(number) {
-  // Écris ton code ici
+function largerThan5AndLe0(number) {
+  // Écris ton code icissThan2
 }
 ```
 
